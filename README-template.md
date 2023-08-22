@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://single-grid-component.vercel.app/)
 
 ## My process
  I used visual studio code editor for coding and working on this project,i really recommend u all to use vs code as it is quite easy to code and it helps u a lot and saves your time and u are able to do efficient work.
